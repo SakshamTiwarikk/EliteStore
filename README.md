@@ -53,28 +53,8 @@ A modern, responsive product listing interface built with Next.js, React, and Ta
    \`\`\`
 
 4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to [http://localhost:3001](http://localhost:3001)
 
-## 📁 Project Structure
-
-\`\`\`
-├── app/
-│   ├── products/
-│   │   ├── [id]/
-│   │   │   ├── page.tsx          # Individual product detail page
-│   │   │   └── not-found.tsx     # 404 page for invalid products
-│   │   └── page.tsx              # Main products listing page
-│   ├── layout.tsx                # Root layout with navigation
-│   ├── page.tsx                  # Home page
-│   └── globals.css               # Global styles
-├── components/
-│   ├── product-card.tsx          # Individual product card component
-│   ├── product-grid.tsx          # Products grid container
-│   └── ui/                       # shadcn/ui components
-├── lib/
-│   └── products.ts               # Product data and utilities
-└── README.md
-\`\`\`
 
 ## 🎨 Design Features
 
